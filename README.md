@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wkerby
 - 👀 I’m interested in Python development and Data Engineering
-- 🌱 I’m currently learning how to work with APIs in Python, the pandas and pyspark packages in Python
+- 🌱 I’m currently learning how to work with APIs in Python, the pandas and pyspark packages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
