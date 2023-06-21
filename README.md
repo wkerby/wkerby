@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wkerby
-- 👀 I’m interested in Python development and Data Engineering
-- 🌱 I’m currently learning how to work with APIs in Python, the pandas and pyspark packages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello there, my name's Will! 
+- 👀 I’m interested in Python development, Data Engineering, Node.js, and MongoDB
+- 🌱 I’m currently sharpening my full-stack web development skills, the pandas and pyspark packages
+- 💞️ I’m looking to collaborate on full-stack web development projects
+- 📫 You can reach my at w.kerby99@gmail.com
 
 <!---
 wkerby/wkerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
